@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 21 20:00:36 MSK 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-017a-2f84-4962-000008d7da68 
+on database directory /home/velkerr/sber-hadoop2021-1/materials/03-hive/7-hive_streaming/2-task4/metastore_db with class loader sun.misc.Launcher$AppClassLoader@68f7aae2 
+Loaded from file:/opt/cloudera/parcels/CDH-6.3.2-1.cdh6.3.2.p0.1605554/jars/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/home/velkerr/sber-hadoop2021-1/materials/03-hive/7-hive_streaming/2-task4
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-52-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
